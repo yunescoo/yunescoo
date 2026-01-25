@@ -1,4 +1,8 @@
-## Hi there 👋
+## 💫 About Me:
+Hi, I’m Younis 👨‍💻
+I’m a junior backend developer.
+
+I have experience building backend systems using Node.js, Express, and MongoDB.
 
 <!--
 **yunescoo/yunescoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

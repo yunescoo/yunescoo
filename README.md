@@ -1,8 +1,9 @@
 ## 💫 About Me:
 Hi, I’m Younis 👨‍💻
-I’m a junior backend developer.
+I’m a SQL developer.
 
-I have experience building backend systems using Node.js, Express, and MongoDB.
+I have expertise in Database Engineering, T-SQL Programming, and Query 
+Performance Tuning.
 
 <!--
 **yunescoo/yunescoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
